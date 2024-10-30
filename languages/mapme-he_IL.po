@@ -1,0 +1,120 @@
+# Copyright (C) 2015 Mapme
+# This file is distributed under the same license as the Mapme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mapme\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/mapme\n"
+"POT-Creation-Date: 2015-05-11 22:01:04+00:00\n"
+"PO-Revision-Date: 2015-05-12 01:07+0200\n"
+"Last-Translator: Rami Y <r_a_m_i@hotmail.com>\n"
+"Language-Team: Rami Yushuvaev <r_a_m_i@hotmail.com>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. Plugin Name of the plugin/theme
+#: admin.php:17 admin.php:18 admin.php:35
+msgid "Mapme"
+msgstr "Mapme"
+
+#: admin.php:64
+msgid "Settings"
+msgstr "הגדרות"
+
+#: admin.php:71
+msgid "Map ID"
+msgstr "שם המפה:"
+
+#: admin.php:79
+msgid "Companies List"
+msgstr "רשימת חברות"
+
+#: admin.php:87
+msgid "Company Info Link"
+msgstr "קישור לעמוד החברה"
+
+#: admin.php:102
+msgid "The plugin works with 3 basic shortcodes: %1$s, %2$s and %3$s."
+msgstr "התוסף עובד עם 3 פקודות מקרו:%1$s, %2$s וכן %3$s."
+
+#: admin.php:110
+msgid "To make the magic happen, enter the following information:"
+msgstr "כדי להפעיל את התוסף, יש להזין את הפרטים הבאים:"
+
+#: admin.php:119
+msgid ""
+"Map id from the <a href=\"http://mapme.com/content/maps/\">Map list</a>."
+msgstr ""
+"שם המפה מתוך <a href=\"http://mapme.com/content/maps/\">רשימת המפות</a>."
+
+#: admin.php:127
+msgid "In the company list, make the companies clickable URLs"
+msgstr "ברשימת החברות, הקישורים יובילו לעמוד עם פרטי החברה"
+
+#: admin.php:128
+msgid ""
+"When using the %s shortcode, you can show a simple list of companies or a "
+"linkble list."
+msgstr ""
+"כאשר נעשה שימוש ב-%s, ניתן להציג רשימה פשוטה של חברות או רשימה של קישורים "
+"המובילה למידע נוסף על כל חברה."
+
+#: admin.php:137
+msgid "Link to the page with the %s shortcode."
+msgstr "קישור לעמוד עם %s."
+
+#: api.php:83
+msgid "Website:"
+msgstr "אתר:"
+
+#: api.php:87
+msgid "Phone:"
+msgstr "טלפון:"
+
+#: api.php:91
+msgid "Founding Year:"
+msgstr "שנת הקמה:"
+
+#: api.php:95
+msgid "Number of Employees:"
+msgstr "מספר עובדים:"
+
+#: api.php:99
+msgid "Address:"
+msgstr "כתובת:"
+
+#: api.php:103
+msgid "About:"
+msgstr "אודות:"
+
+#: api.php:107
+msgid "Facebook Page:"
+msgstr "פייסבוק:"
+
+#: api.php:111
+msgid "Linkedin:"
+msgstr "לינקדאין:"
+
+#: api.php:115
+msgid "Twitter:"
+msgstr "טוויטר:"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/mapme/"
+msgstr "https://wordpress.org/plugins/mapme/"
+
+#. Description of the plugin/theme
+msgid "Embed community maps from Mapme.com into your WordPress site"
+msgstr "הטמעת מפות קהילתיות מתוך Mapme.com באתרי וורדפרס"
+
+#. Author of the plugin/theme
+msgid "Rami Yushuvaev"
+msgstr "רמי יושובייב"
+
+#. Author URI of the plugin/theme
+msgid "http://GenerateWP.com/"
+msgstr "http://GenerateWP.com/"
